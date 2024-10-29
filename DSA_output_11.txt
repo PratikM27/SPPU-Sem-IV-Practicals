@@ -1,0 +1,52 @@
+(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ g++ dsal11.cpp
+(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ ./a.out
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+7.Delete a Student Record
+8.Exit
+Enter the Choice: 1
+
+	Enter Roll Number : 23
+
+	Enter the Name : Atharva             
+
+	Enter the Division: a
+
+	Enter the Address: pune
+
+Do you want to enter more records?
+1.Yes
+2.No2
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+7.Delete a Student Record
+8.Exit
+Enter the Choice: 2
+
+	Roll No.		Name 		 Division 		 Address
+	23		Atharva		a		pune
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+7.Delete a Student Record
+8.Exit
+Enter the Choice: 8
+
+	Thank you(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ 
+

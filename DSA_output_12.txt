@@ -1,0 +1,7 @@
+base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ g++ dsal12.cpp
+(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ ./a.out
+Error: Unable to open file!
+Error: Unable to open file!
+(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ 
+
+

@@ -1,0 +1,9 @@
+base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ g++ dsal10.cpp
+(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ ./a.out
+
+ enter the no. of students 3
+
+ enter the marks 24 24 25 
+
+ max marks25
+ min marks24(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$

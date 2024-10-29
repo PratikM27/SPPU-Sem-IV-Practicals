@@ -1,0 +1,43 @@
+(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ g++ dsal9.cpp
+(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ ./a.out
+1.Insert 
+2.Update 
+3.Ascending 
+4.Descending 
+5.Display 
+6.Quit 
+1
+Enter keyword 
+w
+Enter meaning 
+we
+ROOT CREATED 
+1.Insert 
+2.Update 
+3.Ascending 
+4.Descending 
+5.Display 
+6.Quit 
+2
+Enter key whose meaning to update 
+w
+Enter new meaning
+all
+ENTER SEARCH 
+UPDATE SUCCESSFUL 
+1.Insert 
+2.Update 
+3.Ascending 
+4.Descending 
+5.Display 
+6.Quit 
+3
+w all
+1.Insert 
+2.Update 
+3.Ascending 
+4.Descending 
+5.Display 
+6.Quit 
+6
+(base) rmdstic@rmdstic-OptiPlex-3010:~/Desktop$ 
